@@ -1,0 +1,8 @@
+21:17:12 **** Incremental Build of configuration Debug for project LwIP_TEST ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+
+21:17:13 Build Finished (took 379ms)
+
